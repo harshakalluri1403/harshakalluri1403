@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan:)</h1>
 <h3 align="center">A passionate developer with a focus on automation, machine learning, and innovative tech solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshakalluri14&label=Profile%20views&color=0e75b6&style=flat" alt="harshakalluri14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshakalluri1403&label=Profile%20views&color=0e75b6&style=flat" alt="harshakalluri1403" /> </p>
 
 
 - 📫 How to reach me **harshakalluri14@gmail.com**
@@ -22,11 +22,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/harshakalluri14">
-    <img height=180em src="https://github-readme-stats.vercel.app/api?username=harshakalluri14&count_private=true&theme=tokyonight" alt="Harsha's GitHub stats"/>
-    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakalluri14&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <a href="https://github.com/harshakalluri1403">
+    <img height=180em src="https://github-readme-stats.vercel.app/api?username=harshakalluri1403&count_private=true&theme=tokyonight" alt="Harsha's GitHub stats"/>
+    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakalluri1403&layout=compact&theme=tokyonight" alt="Top Langs"/>
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshakalluri14&theme=midnight-purple" alt="harshakalluri14"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshakalluri1403&theme=midnight-purple" alt="harshakalluri14"/>
 </p>
