@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Pavan:)</h1>
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=Hi+%F0%9F%91%8B,+I'm+Pavan:)&center=true&width=380&height=45">
+    </a>
+</p>
 <h3 align="center">A passionate developer with a focus on automation, machine learning, and innovative tech solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshakalluri1403&label=Profile%20views&color=0e75b6&style=flat" alt="harshakalluri1403" /> </p>
