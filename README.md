@@ -28,6 +28,7 @@
     <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakalluri1403&layout=compact&theme=tokyonight" alt="Top Langs"/>
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshakalluri1403&theme=midnight-purple" alt="harshakalluri14"/>
 </p>
+-->
