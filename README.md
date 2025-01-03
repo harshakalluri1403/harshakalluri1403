@@ -25,7 +25,9 @@
 <p align="center">
   <a href="https://github.com/harshakalluri1403">
     <img height=180em src="https://github-readme-stats.vercel.app/api?username=harshakalluri1403&count_private=true&theme=tokyonight" alt="Harsha's GitHub stats"/>
-    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakalluri1403&layout=compact&theme=tokyonight" alt="Top Langs"/>
+<!-- 
+    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshakalluri1403&layout=compact&theme=tokyonight" alt="Top Langs"/>-->
+      
   </a>
 </p>
 <!-- <p align="center">
